@@ -1,0 +1,8 @@
+{
+    "camera_id": 0,
+    "confidence_threshold": 70,
+    "cooldown_seconds": 60,
+    "sound_enabled": true,
+    "appearance_mode": "light",
+    "color_theme": "blue"
+}

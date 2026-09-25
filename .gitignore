@@ -1,0 +1,48 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ===== Môi trường ảo =====
+venv/
+env/
+.venv/
+
+# ===== Dữ liệu nhạy cảm (KHÔNG đẩy lên GitHub) =====
+dataset/
+trainer.yml
+trainer/
+attendance.csv
+
+# ===== File ảnh tạm sinh ra khi chạy =====
+screenshot_dashboard.png
+screenshot_training.png
+
+# ===== File Word/báo cáo (to, không cần thiết) =====
+*.docx
+
+# ===== File backup =====
+main_app_backup.py
+generate_report.py
+generate_guide.py
+
+# ===== Logs =====
+*.log
+logs/
+
+# ===== Hệ điều hành =====
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+*.suo
+*.user
