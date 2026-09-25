@@ -231,16 +231,6 @@ Chỉnh sửa trong tab **Cài Đặt Hệ Thống** hoặc trực tiếp trong 
 
 ---
 
-## 👥 Nhóm phát triển
-
-| Thành viên | Phụ trách |
-|------------|-----------|
-| Thành viên 1 (Nhóm trưởng) | Kiến trúc hệ thống · Camera · Điểm danh · HUD |
-| Thành viên 2 | Thuật toán LBPH · Huấn luyện AI · Chống trùng lặp |
-| Thành viên 3 | Giao diện Dashboard · Lịch sử · Báo cáo · Testing |
-
----
-
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
